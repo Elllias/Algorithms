@@ -1,0 +1,15 @@
+C:\Users\Elias\RiderProjects\Autopilot\Autopilot\bin\Debug\net6.0\Autopilot.exe
+C:\Users\Elias\RiderProjects\Autopilot\Autopilot\bin\Debug\net6.0\Autopilot.deps.json
+C:\Users\Elias\RiderProjects\Autopilot\Autopilot\bin\Debug\net6.0\Autopilot.runtimeconfig.json
+C:\Users\Elias\RiderProjects\Autopilot\Autopilot\bin\Debug\net6.0\Autopilot.dll
+C:\Users\Elias\RiderProjects\Autopilot\Autopilot\bin\Debug\net6.0\ref\Autopilot.dll
+C:\Users\Elias\RiderProjects\Autopilot\Autopilot\bin\Debug\net6.0\Autopilot.pdb
+C:\Users\Elias\RiderProjects\Autopilot\Autopilot\obj\Debug\net6.0\Autopilot.csproj.AssemblyReference.cache
+C:\Users\Elias\RiderProjects\Autopilot\Autopilot\obj\Debug\net6.0\Autopilot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elias\RiderProjects\Autopilot\Autopilot\obj\Debug\net6.0\Autopilot.AssemblyInfoInputs.cache
+C:\Users\Elias\RiderProjects\Autopilot\Autopilot\obj\Debug\net6.0\Autopilot.AssemblyInfo.cs
+C:\Users\Elias\RiderProjects\Autopilot\Autopilot\obj\Debug\net6.0\Autopilot.csproj.CoreCompileInputs.cache
+C:\Users\Elias\RiderProjects\Autopilot\Autopilot\obj\Debug\net6.0\Autopilot.dll
+C:\Users\Elias\RiderProjects\Autopilot\Autopilot\obj\Debug\net6.0\ref\Autopilot.dll
+C:\Users\Elias\RiderProjects\Autopilot\Autopilot\obj\Debug\net6.0\Autopilot.pdb
+C:\Users\Elias\RiderProjects\Autopilot\Autopilot\obj\Debug\net6.0\Autopilot.genruntimeconfig.cache
