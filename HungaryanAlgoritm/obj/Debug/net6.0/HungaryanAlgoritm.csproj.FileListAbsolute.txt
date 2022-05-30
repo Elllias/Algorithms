@@ -1,0 +1,15 @@
+C:\Users\Elias\RiderProjects\HungaryanAlgoritm\HungaryanAlgoritm\bin\Debug\net6.0\HungaryanAlgoritm.exe
+C:\Users\Elias\RiderProjects\HungaryanAlgoritm\HungaryanAlgoritm\bin\Debug\net6.0\HungaryanAlgoritm.deps.json
+C:\Users\Elias\RiderProjects\HungaryanAlgoritm\HungaryanAlgoritm\bin\Debug\net6.0\HungaryanAlgoritm.runtimeconfig.json
+C:\Users\Elias\RiderProjects\HungaryanAlgoritm\HungaryanAlgoritm\bin\Debug\net6.0\HungaryanAlgoritm.dll
+C:\Users\Elias\RiderProjects\HungaryanAlgoritm\HungaryanAlgoritm\bin\Debug\net6.0\ref\HungaryanAlgoritm.dll
+C:\Users\Elias\RiderProjects\HungaryanAlgoritm\HungaryanAlgoritm\bin\Debug\net6.0\HungaryanAlgoritm.pdb
+C:\Users\Elias\RiderProjects\HungaryanAlgoritm\HungaryanAlgoritm\obj\Debug\net6.0\HungaryanAlgoritm.csproj.AssemblyReference.cache
+C:\Users\Elias\RiderProjects\HungaryanAlgoritm\HungaryanAlgoritm\obj\Debug\net6.0\HungaryanAlgoritm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elias\RiderProjects\HungaryanAlgoritm\HungaryanAlgoritm\obj\Debug\net6.0\HungaryanAlgoritm.AssemblyInfoInputs.cache
+C:\Users\Elias\RiderProjects\HungaryanAlgoritm\HungaryanAlgoritm\obj\Debug\net6.0\HungaryanAlgoritm.AssemblyInfo.cs
+C:\Users\Elias\RiderProjects\HungaryanAlgoritm\HungaryanAlgoritm\obj\Debug\net6.0\HungaryanAlgoritm.csproj.CoreCompileInputs.cache
+C:\Users\Elias\RiderProjects\HungaryanAlgoritm\HungaryanAlgoritm\obj\Debug\net6.0\HungaryanAlgoritm.dll
+C:\Users\Elias\RiderProjects\HungaryanAlgoritm\HungaryanAlgoritm\obj\Debug\net6.0\ref\HungaryanAlgoritm.dll
+C:\Users\Elias\RiderProjects\HungaryanAlgoritm\HungaryanAlgoritm\obj\Debug\net6.0\HungaryanAlgoritm.pdb
+C:\Users\Elias\RiderProjects\HungaryanAlgoritm\HungaryanAlgoritm\obj\Debug\net6.0\HungaryanAlgoritm.genruntimeconfig.cache
